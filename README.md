@@ -46,10 +46,33 @@ Smart_Drainage_Monitoring_System/
 │   ├── prediction.py
 │   ├── alerts.py
 │   └── reports.py
+│
+├── screenshots/
 ```
 
----
 
+---
+## 📷 Application Screenshots
+
+### 🏠 Dashboard
+
+(Add Dashboard Screenshot Here)
+
+### 📊 Analytics
+
+(Add Analytics Screenshot Here)
+
+### 🤖 Prediction
+
+(Add Prediction Screenshot Here)
+
+### 🚨 Alerts
+
+(Add Alerts Screenshot Here)
+
+### 📄 Reports
+
+(Add Reports Screenshot Here)
 ## 🚀 Installation
 
 1. Clone the repository
