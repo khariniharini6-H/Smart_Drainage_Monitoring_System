@@ -1,0 +1,11 @@
+Drain_ID,Area,Water_Level,Garbage_Level,Rainfall,Flow_Rate,Risk
+D001,Ameerpet,35,20,15,80,Safe
+D002,Begumpet,85,75,60,25,High
+D003,Kukatpally,65,50,45,45,Medium
+D004,Madhapur,90,85,70,20,High
+D005,Gachibowli,40,25,20,75,Safe
+D006,Secunderabad,72,60,50,40,Medium
+D007,Prakash Nagar,95,90,85,15,High
+D008,LB Nagar,30,15,10,85,Safe
+D009,Uppal,68,55,48,42,Medium
+D010,Miyapur,88,82,72,18,High
