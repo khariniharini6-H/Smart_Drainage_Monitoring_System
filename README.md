@@ -54,25 +54,45 @@ Smart_Drainage_Monitoring_System/
 ---
 ## 📷 Application Screenshots
 
-### 🏠 Dashboard
+##  🏠 Homepage
+![Home 1](screenshots/home1.png.jpeg)
 
-(Add Dashboard Screenshot Here)
+![Home 2](screenshots/home2.png.jpeg)
+
+### 📊 Dashboard
+
+![Dashboard 1](screenshots/dashboard1.png.jpeg)
+
+![Dashboard 2](screenshots/dashboard2.png.jpeg)
 
 ### 📊 Analytics
+![Analytics 1](screenshots/analytics1.png.jpeg)
 
-(Add Analytics Screenshot Here)
+![Analytics 2](screenshots/analytics2.png.jpeg)
+
+![Analytics 3](screenshots/analytics3.png.jpeg)
+
+![Analytics 4](screenshots/analytics4.png.jpeg)
+
+![Analytics 5](screenshots/analytics5.png.jpeg)
+
 
 ### 🤖 Prediction
-
-(Add Prediction Screenshot Here)
+![Prediction](screenshots/prediction1.png.jpeg)
 
 ### 🚨 Alerts
 
-(Add Alerts Screenshot Here)
+![Alert 1](screenshots/alert1.png.jpeg)
+
+![Alert 2](screenshots/alert2.png.jpeg)
 
 ### 📄 Reports
+![Report 1](screenshots/report1.png.jpeg)
 
-(Add Reports Screenshot Here)
+![Report 2](screenshots/report2.png.jpeg)
+
+![Report 3](screenshots/report3.png.jpeg)
+
 ## 🚀 Installation
 
 1. Clone the repository
